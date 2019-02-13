@@ -1,11 +1,7 @@
 name: base
 channels:
-  - pytorch
   - conda-forge
   - defaults
-name: example-environment
-channels:
-  - conda-forge
 dependencies:
   - numpy
   - psutil
